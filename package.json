@@ -25,6 +25,6 @@
   "dependencies": {
     "loader-utils": "^1.1.0",
     "slm": "^2.0.0",
-    "slm-markdown": "^1.0.0"
+    "slm-markdown": "https://github.com/redguava/slm-markdown.git"
   }
 }
